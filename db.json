@@ -1,12 +1,61 @@
 {
-  "apiEndpoint" : [
+  "songs": [
     {
-      "name" : "UMA",
-      "skills" : ["javaScript", "node.js", "react.js"]
+      "id": 1,
+      "title": "7 Rings",
+      "artist": "Ariana Grande",
+      "url": "https://cdn.pixabay.com/download/audio/2023/06/18/audio_efbc9e58e3.mp3?filename=ariana-grande-7-rings-preview.mp3",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e1/68/20/e16820e6-dff9-3243-1b7a-eec4c66b5673/source/100x100bb.jpg"
     },
     {
-      "name":"RADHA",
-      "skills" : ["Adobe Illustrator", "Adobe After effects"]
+      "id": 2,
+      "title": "Super Bass",
+      "artist": "Nicki Minaj",
+      "url": "https://cdn.pixabay.com/download/audio/2022/10/10/audio_4dfd3ff795.mp3?filename=nicki-minaj-super-bass-preview.mp3",
+      "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5f/91/06/5f910672-3781-9817-fdf7-f3d66cfda842/source/100x100bb.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Inauma",
+      "artist": "Bien",
+      "url": "https://cdn.pixabay.com/download/audio/2022/03/15/audio_d3d6c57479.mp3?filename=bien-inauma-preview.mp3",
+      "artwork": "https://naibuzz.com/wp-content/uploads/2021/03/bien.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Malaika",
+      "artist": "Nyashinski",
+      "url": "https://cdn.pixabay.com/download/audio/2022/06/28/audio_e924548bf4.mp3?filename=nyashinski-malaika-preview.mp3",
+      "artwork": "https://i1.sndcdn.com/artworks-000240317582-zf7ddj-t500x500.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Into You",
+      "artist": "Ariana Grande",
+      "url": "https://cdn.pixabay.com/download/audio/2022/07/27/audio_f0f5ebc86e.mp3?filename=ariana-grande-into-you-preview.mp3",
+      "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/9f/9c/5a/9f9c5a0b-10e6-d8dc-5c73-437b9ab180e6/source/100x100bb.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Moment 4 Life",
+      "artist": "Nicki Minaj",
+      "url": "https://cdn.pixabay.com/download/audio/2023/01/04/audio_c9e5a9d387.mp3?filename=nicki-minaj-moment-4-life-preview.mp3",
+      "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/f9/01/44/f9014475-0b34-2076-c0eb-4dfc635f5692/source/100x100bb.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Too Easy",
+      "artist": "Bien & Sauti Sol",
+      "url": "https://cdn.pixabay.com/download/audio/2023/02/14/audio_a58f2db9fa.mp3?filename=bien-too-easy-preview.mp3",
+      "artwork": "https://i.ytimg.com/vi/xNqv1ZnFR3M/maxresdefault.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Properly",
+      "artist": "Nyashinski ft. Femi One",
+      "url": "https://cdn.pixabay.com/download/audio/2022/08/20/audio_33c452221f.mp3?filename=nyashinski-properly-preview.mp3",
+      "artwork": "https://i.ytimg.com/vi/FJ9p0cEQh_8/maxresdefault.jpg"
     }
   ]
 }
+
